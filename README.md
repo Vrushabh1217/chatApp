@@ -5,7 +5,7 @@ Welcome to the Chat App, a real-time messaging application built with the MERN s
 
 ## Live Demo
 
-Check out the live demo: [Chat App](https://chat-app-qs6f.onrender.com)
+
 
 ## Features
 
